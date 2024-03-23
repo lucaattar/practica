@@ -1,2 +1,1 @@
-# practica
-practica de superacion
+este proyecto es una sueperacion
